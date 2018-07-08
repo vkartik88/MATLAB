@@ -10,6 +10,6 @@ A set of MATLAB/Octave codes that I wrote for Digital Signal Processing, Wireles
 2. VBLAST:
 	This is used to simulated a weighted Successive Interference Cancelling (SIC) VBLAST receiver for a N x N MIMO system.
 
-	This is partially vectorized and can be slow for higher values of N. The code has a few modifications to be made to work for Rectangular system.
+	This is partially vectorized and can be slow for higher values of N. The code needs a few modifications before it can be used for a Rectangular MIMO system.
 
 	Stay tuned for a Python version of this code as well.
